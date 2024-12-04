@@ -1,4 +1,4 @@
-# Group Exercise
+# Containerization Exercise
 
 ## Instructions
 - Fork and Clone the repository
